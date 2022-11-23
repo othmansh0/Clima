@@ -2,7 +2,7 @@
 
 ### Screen Shots
 Light and Dark moode Views:
-<img src="Clima Views.png" width="900">
+<img src="Clima Views2.png" width="900">
 
 
 ---
