@@ -21,6 +21,7 @@ Light and Dark moode Views:
 - Search for a city's weather using search bar.
 - Parsing JSON data with OpenWeatherMap API using the native Encodable and Decodable protocols. 
 - MVC design pattern.
+- Created this app as part of my learning and improvement during appbrewery ios development bootcamp on udemy.
 
 
 #### Frameworks
