@@ -1,7 +1,7 @@
 # Clima
 
 ### Screen Shots
-Light and Dark moode Views:
+Light and Dark mode Views:
 <img src="Clima Views2.png" width="900">
 
 
